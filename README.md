@@ -1,2 +1,1 @@
-# web
-For stepik.org web course 
+https://stepik.org/course/154
