@@ -1,2 +1,2 @@
-# web
-For stepik.org web course 
+# Stepik web course by mail.ru 
+https://stepik.org/course/154
